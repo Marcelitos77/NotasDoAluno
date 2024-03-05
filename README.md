@@ -1,4 +1,4 @@
-# Aula de C# - Jogo da palavra
+# Aula de C# - Média do Aluno
 
 Desenvolvido código onde se coloca as 3 notas do aluno e faz o cálculo da média ponderada, Aula Desvtars - PCDdevs.
 
